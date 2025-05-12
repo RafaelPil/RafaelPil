@@ -9,6 +9,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <br/>
 
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpil&layout=compact" />
+</p>
 https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text
 
 - 👀 I’m looking to collaborate
