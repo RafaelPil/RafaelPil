@@ -7,5 +7,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" />
 </p>
 
+<br/>
+
+https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text
+
 - 👀 I’m looking to collaborate
 - 📫 How to reach me: rafael.pilumyan@gmail.com
