@@ -9,9 +9,5 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpil&hide_prog" alt="Top Languages" />
-</p>
-
 - 👀 I’m looking to collaborate
 - 📫 How to reach me: rafael.pilumyan@gmail.com
