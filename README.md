@@ -1,4 +1,5 @@
-<h1 align="left">Hi there, I'm Rafael Pil</h1>
+<h1 align="left">Hi there, I'm Rafael Pil <img
+src="https://raw.githubusercontent.com/RafaelPil/RafaelPil/refs/heads/main/Hi.gif" height="32" /></h1>
 
 <br />
 
