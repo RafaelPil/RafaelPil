@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/RafaelPil/RafaelPil/refs/heads/main/Hi.gi
 <br/>
 
 <p align="left">
-    <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact" />
+    <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact&langs_count=8&theme=default%22%20height=%22200px%22" />
 </p>
 
 - 👀 I’m looking to collaborate
