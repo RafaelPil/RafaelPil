@@ -10,7 +10,11 @@ src="https://raw.githubusercontent.com/RafaelPil/RafaelPil/refs/heads/main/Hi.gi
 <br/>
 
 <p align="left">
-    <img src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact&langs_count=8&theme=default%22%20height=%22200px%22" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact&langs_count=8&theme=transparent&title_color=00bfff&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=rafaelpil&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
 </p>
 
 - 👀 I’m looking to collaborate
